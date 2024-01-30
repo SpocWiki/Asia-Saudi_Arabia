@@ -109,8 +109,8 @@ id: Saudi Arabia
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Saudi_Arabia/
-markerFolder: ./Saudi_Arabia/
+geojsonFolder: ./
+markerFolder: ./
 ```
 
 [name-en::Saudi Arabia] 
