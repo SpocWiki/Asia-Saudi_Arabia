@@ -1,89 +1,89 @@
----
+﻿---
 location:
-  - 21.45
-  - 39.82
+- 21.45
+- 39.82
 mapzoom:
-  - 7
-  - 12
+- 7
+- 12
 mapmarker: city
 type: City
 tags:
-  - geo/City
+- geo/City
 SpocWebEntityId: 32389
 isDeleted: false
 confidential: public
 aliases:
-  - Mekka
-  - Makkah
-  - Mecca
-  - Makkah al-Mukarramah
+- Mekka
+- Makkah
+- Mecca
+- "Makkah al-Mukarramah"
 has_id_wikidata: Q5806
-located in the administrative territorial entity: "[[/_Standards/WikiData/WD~Mecca Province,234167]]"
-capital of:
-  - "[[/_Standards/WikiData/WD~Mecca Province,234167]]"
-  - "[[/_Standards/WikiData/WD~Kingdom of Hejaz,956357]]"
-  - "[[/_Standards/WikiData/WD~Kingdom of Nejd and Hejaz,1756546]]"
-  - "[[/_Standards/WikiData/WD~The Holy Capital Governorate,96176836]]"
-head of government: "[[/_Standards/WikiData/WD~Khalid bin Faisal,371263]]"
-instance of:
-  - "[[/_Standards/WikiData/WD~tourist attraction,570116]]"
-  - "[[/_Standards/WikiData/WD~holy city,692581]]"
-  - "[[/_Standards/WikiData/WD~holy city of Islam,116291701]]"
-described by source:
-  - "[[/_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[/_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[/_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
-  - "[[/_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-  - "[[/_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[/_Standards/WikiData/WD~Islamskiy entsiklopedicheskiy slovar',18517268]]"
-  - "[[/_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[/_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-different from: "[[/_Standards/WikiData/WD~The Holy Capital Governorate,96176836]]"
-category for people buried here: "[[/_Standards/WikiData/WD~Q97415362,97415362]]"
-permanent duplicated item: "[[/_Standards/WikiData/WD~Q100264293,100264293]]"
-pronunciation audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Yahya-%E0%A6%AE%E0%A6%95%E0%A7%8D%E0%A6%95%E0%A6%BE.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Q5806-ar.ogg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Makkah%20Montage.jpg
-montage image: http://commons.wikimedia.org/wiki/Special:FilePath/Makkah%20Montage.jpg
-page banner:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Mecca%20banner%20Kaaba%202.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Mecca%20banner%20Kaaba%201.jpg
-video: http://commons.wikimedia.org/wiki/Special:FilePath/Mekka%2C%20Geburtsort%20des%20Islam%20%28CC%20BY-SA%204.0%29.webm
-Krugosvet article: kultura_i_obrazovanie/religiya/MEKKA.html
-IMDb keyword: mecca
-GitHub topic: mecca
+located_in_the_administrative_territorial_entity: "[[/_Standards/WikiData/WD~Mecca Province,234167]]"
+capital_of:
+- "[[/_Standards/WikiData/WD~Mecca Province,234167]]"
+- "[[/_Standards/WikiData/WD~Kingdom of Hejaz,956357]]"
+- "[[/_Standards/WikiData/WD~Kingdom of Nejd and Hejaz,1756546]]"
+- "[[/_Standards/WikiData/WD~The Holy Capital Governorate,96176836]]"
+head_of_government: "[[/_Standards/WikiData/WD~Khalid bin Faisal,371263]]"
+instance_of:
+- "[[/_Standards/WikiData/WD~tourist attraction,570116]]"
+- "[[/_Standards/WikiData/WD~holy city,692581]]"
+- "[[/_Standards/WikiData/WD~holy city of Islam,116291701]]"
+described_by_source:
+- "[[/_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[/_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[/_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
+- "[[/_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
+- "[[/_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[/_Standards/WikiData/WD~Islamskiy entsiklopedicheskiy slovar',18517268]]"
+- "[[/_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[/_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+different_from: "[[/_Standards/WikiData/WD~The Holy Capital Governorate,96176836]]"
+category_for_people_buried_here: '[[/_Standards/WikiData/WD~Q97415362,97415362]]'
+permanent_duplicated_item: '[[/_Standards/WikiData/WD~Q100264293,100264293]]'
+pronunciation_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Yahya-%E0%A6%AE%E0%A6%95%E0%A7%8D%E0%A6%95%E0%A6%BE.wav"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Q5806-ar.ogg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Makkah%20Montage.jpg"
+montage_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Makkah%20Montage.jpg"
+page_banner:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Mecca%20banner%20Kaaba%202.jpg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Mecca%20banner%20Kaaba%201.jpg"
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/Mekka%2C%20Geburtsort%20des%20Islam%20%28CC%20BY-SA%204.0%29.webm"
+Krugosvet_article: kultura_i_obrazovanie/religiya/MEKKA.html
+IMDb_keyword: mecca
+GitHub_topic: mecca
 demonym:
-  - مَكِّيّ
-  - Meccan
-  - Mekkano
-  - мекканцы
-  - Mekke
-  - meccani
-OmegaWiki Defined Meaning: "414212"
+- مَكِّيّ
+- Meccan
+- Mekkano
+- мекканцы
+- Mekke
+- meccani
+OmegaWiki_Defined_Meaning: 414212
 population: 2427924
-Commons category: Mecca
-DPLA subject term: Mecca
+Commons_category: Mecca
+DPLA_subject_term: Mecca
 subreddit: Mecca
-coordinate location: Point(39.826111111 21.4225)
-U.S. National Archives Identifier: "10044893"
-native label:
-  - مكة المكرمة
-official name: مكة المكرمة
-ISNI: "0000000121768551"
-Stack Exchange tag: https://islam.stackexchange.com/tags/mecca
-official website: https://hmm.gov.sa/
-Wolfram Language entity code: Entity["City", {"Mecca", "Mecca", "SaudiArabia"}]
-Gujarati Vishwakosh entry: મક્કા
-Library of Congress Classification: DS248.M4
-BHCL UUID: 1691b627-50b4-487d-80b7-a635c8c61988
+coordinate_location: "Point(39.826111111 21.4225)"
+U_S_National_Archives_Identifier: 10044893
+native_label:
+- "مكة المكرمة"
+official_name: "مكة المكرمة"
+ISNI: 0000000121768551
+Stack_Exchange_tag: "https://islam.stackexchange.com/tags/mecca"
+official_website: "https://hmm.gov.sa/"
+Wolfram_Language_entity_code: "Entity[\"City\", {\"Mecca\", \"Mecca\", \"SaudiArabia\"}]"
+Gujarati_Vishwakosh_entry: મક્કા
+Library_of_Congress_Classification: DS248.M4
+BHCL_UUID: 1691b627-50b4-487d-80b7-a635c8c61988
 country: "[[/_Standards/WikiData/WD~Saudi Arabia,851]]"
-located in time zone:
-  - "[[/_Standards/WikiData/WD~UTC+03_00,6760]]"
+located_in_time_zone:
+- '[[/_Standards/WikiData/WD~UTC+03_00,6760]]'
 area: 760
-twinned administrative body: "[[/_Standards/WikiData/WD~Medina,35484]]"
-elevation above sea level: 277
-local dialing code: "1"
+twinned_administrative_body: '[[/_Standards/WikiData/WD~Medina,35484]]'
+elevation_above_sea_level: 277
+local_dialing_code: 1
 ---
 
 # [[Mecca]] 
