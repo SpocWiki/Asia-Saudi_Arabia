@@ -18,27 +18,27 @@ aliases:
 - Mecca
 - "Makkah al-Mukarramah"
 has_id_wikidata: Q5806
-located_in_the_administrative_territorial_entity: "[[/_Standards/WikiData/WD~Mecca Province,234167]]"
+located_in_the_administrative_territorial_entity: "[[/_Standards/WikiData/WD~Mecca_Province,234167]]"
 capital_of:
-- "[[/_Standards/WikiData/WD~Mecca Province,234167]]"
-- "[[/_Standards/WikiData/WD~Kingdom of Hejaz,956357]]"
-- "[[/_Standards/WikiData/WD~Kingdom of Nejd and Hejaz,1756546]]"
-- "[[/_Standards/WikiData/WD~The Holy Capital Governorate,96176836]]"
-head_of_government: "[[/_Standards/WikiData/WD~Khalid bin Faisal,371263]]"
+- "[[/_Standards/WikiData/WD~Mecca_Province,234167]]"
+- "[[/_Standards/WikiData/WD~Kingdom_of_Hejaz,956357]]"
+- "[[/_Standards/WikiData/WD~Kingdom_of_Nejd_and_Hejaz,1756546]]"
+- "[[/_Standards/WikiData/WD~The_Holy_Capital_Governorate,96176836]]"
+head_of_government: "[[/_Standards/WikiData/WD~Khalid_bin_Faisal,371263]]"
 instance_of:
-- "[[/_Standards/WikiData/WD~tourist attraction,570116]]"
-- "[[/_Standards/WikiData/WD~holy city,692581]]"
-- "[[/_Standards/WikiData/WD~holy city of Islam,116291701]]"
+- "[[/_Standards/WikiData/WD~tourist_attraction,570116]]"
+- "[[/_Standards/WikiData/WD~holy_city,692581]]"
+- "[[/_Standards/WikiData/WD~holy_city_of_Islam,116291701]]"
 described_by_source:
-- "[[/_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[/_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[/_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
-- "[[/_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-- "[[/_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[/_Standards/WikiData/WD~Islamskiy entsiklopedicheskiy slovar',18517268]]"
-- "[[/_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[/_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-different_from: "[[/_Standards/WikiData/WD~The Holy Capital Governorate,96176836]]"
+- "[[/_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[/_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+- "[[/_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+- "[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[/_Standards/WikiData/WD~Islamskiy_entsiklopedicheskiy_slovar',18517268]]"
+- "[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[/_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+different_from: "[[/_Standards/WikiData/WD~The_Holy_Capital_Governorate,96176836]]"
 category_for_people_buried_here: '[[/_Standards/WikiData/WD~Q97415362,97415362]]'
 permanent_duplicated_item: '[[/_Standards/WikiData/WD~Q100264293,100264293]]'
 pronunciation_audio:
@@ -77,7 +77,7 @@ Wolfram_Language_entity_code: "Entity[\"City\", {\"Mecca\", \"Mecca\", \"SaudiAr
 Gujarati_Vishwakosh_entry: મક્કા
 Library_of_Congress_Classification: DS248.M4
 BHCL_UUID: 1691b627-50b4-487d-80b7-a635c8c61988
-country: "[[/_Standards/WikiData/WD~Saudi Arabia,851]]"
+country: "[[/_Standards/WikiData/WD~Saudi_Arabia,851]]"
 located_in_time_zone:
 - '[[/_Standards/WikiData/WD~UTC+03_00,6760]]'
 area: 760
