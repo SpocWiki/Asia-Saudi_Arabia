@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 21.45
 - 39.82
@@ -119,11 +119,21 @@ maxZoom: 18
 > Under the Saudi government, Mecca is governed by the Mecca Regional Municipality, a municipal council of 14 locally elected members headed by the mayor (called Amin in Arabic) appointed by the Saudi government. In 2015, the mayor of the city was Osama bin Fadhel Al-Barr; as of January 2022, the mayor is Saleh Al-Turki. The City of Mecca amanah, which constitutes Mecca and the surrounding region, is the capital of the Mecca Province, which includes the neighbouring cities of Jeddah and Ta'if, even though Jeddah is considerably larger in population than Mecca. Prince Khalid bin Faisal Al Saud has been the provincial governor of the province since 16 May 2007.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mecca)
+
+
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Saudi_Arabia/City/Mekka=Makkah=Mecca|Mekka=Makkah=Mecca]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Saudi_Arabia/City/Mekka=Makkah=Mecca.public|Mekka=Makkah=Mecca.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Saudi_Arabia/City/Mekka=Makkah=Mecca.internal|Mekka=Makkah=Mecca.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Saudi_Arabia/City/Mekka=Makkah=Mecca.protect|Mekka=Makkah=Mecca.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Saudi_Arabia/City/Mekka=Makkah=Mecca.private|Mekka=Makkah=Mecca.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Saudi_Arabia/City/Mekka=Makkah=Mecca.personal|Mekka=Makkah=Mecca.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Saudi_Arabia/City/Mekka=Makkah=Mecca.secret|Mekka=Makkah=Mecca.secret]] 
+
+### #is_/same_as :: [Mecca](/_Standards/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Makkah/City/Mecca.md) 
+
+### #is_/same_as :: [Mecca.public](/_public/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Makkah/City/Mecca.public.md) 
+
+### #is_/same_as :: [Mecca.internal](/_internal/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Makkah/City/Mecca.internal.md) 
+
+### #is_/same_as :: [Mecca.protect](/_protect/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Makkah/City/Mecca.protect.md) 
+
+### #is_/same_as :: [Mecca.private](/_private/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Makkah/City/Mecca.private.md) 
+
+### #is_/same_as :: [Mecca.personal](/_personal/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Makkah/City/Mecca.personal.md) 
+
+### #is_/same_as :: [Mecca.secret](/_secret/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Makkah/City/Mecca.secret.md)
+

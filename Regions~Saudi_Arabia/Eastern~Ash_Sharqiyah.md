@@ -40,11 +40,18 @@ markerFolder: ./Ash_Sharqiyah/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Ash_Sharqiyah|Ash_Sharqiyah]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Ash_Sharqiyah.public|Ash_Sharqiyah.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Ash_Sharqiyah.internal|Ash_Sharqiyah.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Ash_Sharqiyah.protect|Ash_Sharqiyah.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Ash_Sharqiyah.private|Ash_Sharqiyah.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Ash_Sharqiyah.personal|Ash_Sharqiyah.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Ash_Sharqiyah.secret|Ash_Sharqiyah.secret]] 
+
+### #is_/same_as :: [Eastern~Ash_Sharqiyah](/_Standards/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Eastern~Ash_Sharqiyah.md) 
+
+### #is_/same_as :: [Eastern~Ash_Sharqiyah.public](/_public/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Eastern~Ash_Sharqiyah.public.md) 
+
+### #is_/same_as :: [Eastern~Ash_Sharqiyah.internal](/_internal/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Eastern~Ash_Sharqiyah.internal.md) 
+
+### #is_/same_as :: [Eastern~Ash_Sharqiyah.protect](/_protect/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Eastern~Ash_Sharqiyah.protect.md) 
+
+### #is_/same_as :: [Eastern~Ash_Sharqiyah.private](/_private/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Eastern~Ash_Sharqiyah.private.md) 
+
+### #is_/same_as :: [Eastern~Ash_Sharqiyah.personal](/_personal/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Eastern~Ash_Sharqiyah.personal.md) 
+
+### #is_/same_as :: [Eastern~Ash_Sharqiyah.secret](/_secret/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Eastern~Ash_Sharqiyah.secret.md)
 

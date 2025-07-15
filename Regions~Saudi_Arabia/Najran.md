@@ -40,11 +40,18 @@ markerFolder: ./Najran/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Najran|Najran]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Najran.public|Najran.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Najran.internal|Najran.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Najran.protect|Najran.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Najran.private|Najran.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Najran.personal|Najran.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Najran.secret|Najran.secret]] 
+
+### #is_/same_as :: [Najran](/_Standards/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Najran.md) 
+
+### #is_/same_as :: [Najran.public](/_public/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Najran.public.md) 
+
+### #is_/same_as :: [Najran.internal](/_internal/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Najran.internal.md) 
+
+### #is_/same_as :: [Najran.protect](/_protect/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Najran.protect.md) 
+
+### #is_/same_as :: [Najran.private](/_private/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Najran.private.md) 
+
+### #is_/same_as :: [Najran.personal](/_personal/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Najran.personal.md) 
+
+### #is_/same_as :: [Najran.secret](/_secret/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Najran.secret.md)
 

@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Saudi_Arabia/City/Riyadh=Er_Riad|Riyadh=Er_Riad]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Saudi_Arabia/City/Riyadh=Er_Riad.public|Riyadh=Er_Riad.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Saudi_Arabia/City/Riyadh=Er_Riad.internal|Riyadh=Er_Riad.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Saudi_Arabia/City/Riyadh=Er_Riad.protect|Riyadh=Er_Riad.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Saudi_Arabia/City/Riyadh=Er_Riad.private|Riyadh=Er_Riad.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Saudi_Arabia/City/Riyadh=Er_Riad.personal|Riyadh=Er_Riad.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Saudi_Arabia/City/Riyadh=Er_Riad.secret|Riyadh=Er_Riad.secret]] 
+
+### #is_/same_as :: [Riyadh=Er_Riad](/_Standards/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Ar_Riyad/City/Riyadh=Er_Riad.md) 
+
+### #is_/same_as :: [Riyadh=Er_Riad.public](/_public/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Ar_Riyad/City/Riyadh=Er_Riad.public.md) 
+
+### #is_/same_as :: [Riyadh=Er_Riad.internal](/_internal/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Ar_Riyad/City/Riyadh=Er_Riad.internal.md) 
+
+### #is_/same_as :: [Riyadh=Er_Riad.protect](/_protect/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Ar_Riyad/City/Riyadh=Er_Riad.protect.md) 
+
+### #is_/same_as :: [Riyadh=Er_Riad.private](/_private/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Ar_Riyad/City/Riyadh=Er_Riad.private.md) 
+
+### #is_/same_as :: [Riyadh=Er_Riad.personal](/_personal/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Ar_Riyad/City/Riyadh=Er_Riad.personal.md) 
+
+### #is_/same_as :: [Riyadh=Er_Riad.secret](/_secret/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Ar_Riyad/City/Riyadh=Er_Riad.secret.md)
+

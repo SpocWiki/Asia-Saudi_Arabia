@@ -40,11 +40,18 @@ markerFolder: ./Ar_Riyad/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Ar_Riyad|Ar_Riyad]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Ar_Riyad.public|Ar_Riyad.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Ar_Riyad.internal|Ar_Riyad.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Ar_Riyad.protect|Ar_Riyad.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Ar_Riyad.private|Ar_Riyad.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Ar_Riyad.personal|Ar_Riyad.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Ar_Riyad.secret|Ar_Riyad.secret]] 
+
+### #is_/same_as :: [Ar_Riyad](/_Standards/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Ar_Riyad.md) 
+
+### #is_/same_as :: [Ar_Riyad.public](/_public/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Ar_Riyad.public.md) 
+
+### #is_/same_as :: [Ar_Riyad.internal](/_internal/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Ar_Riyad.internal.md) 
+
+### #is_/same_as :: [Ar_Riyad.protect](/_protect/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Ar_Riyad.protect.md) 
+
+### #is_/same_as :: [Ar_Riyad.private](/_private/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Ar_Riyad.private.md) 
+
+### #is_/same_as :: [Ar_Riyad.personal](/_personal/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Ar_Riyad.personal.md) 
+
+### #is_/same_as :: [Ar_Riyad.secret](/_secret/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Ar_Riyad.secret.md)
 

@@ -130,10 +130,4 @@ Capital :: [[Saudi_Arabia/Counties/Ar_Riyad/City/Riyadh=Er_Riad]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Saudi_Arabia|Saudi_Arabia]]  
-- [[../../../../../_internal/geo/Continent/Asia/Asia~West/Saudi_Arabia.internal|Saudi_Arabia.internal]]  
-- [[../../../../../_protect/geo/Continent/Asia/Asia~West/Saudi_Arabia.protect|Saudi_Arabia.protect]] 
-- [[../../../../../_private/geo/Continent/Asia/Asia~West/Saudi_Arabia.private|Saudi_Arabia.private]] 
-- [[../../../../../_personal/geo/Continent/Asia/Asia~West/Saudi_Arabia.personal|Saudi_Arabia.personal]] 
-- [[../../../../../_secret/geo/Continent/Asia/Asia~West/Saudi_Arabia.secret|Saudi_Arabia.secret]] 
+

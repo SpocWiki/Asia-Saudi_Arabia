@@ -40,11 +40,18 @@ markerFolder: ./Al_Quassim/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Quassim|Al_Quassim]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Quassim.public|Al_Quassim.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Quassim.internal|Al_Quassim.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Quassim.protect|Al_Quassim.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Quassim.private|Al_Quassim.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Quassim.personal|Al_Quassim.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Quassim.secret|Al_Quassim.secret]] 
+
+### #is_/same_as :: [Al_Quassim](/_Standards/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Al_Quassim.md) 
+
+### #is_/same_as :: [Al_Quassim.public](/_public/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Al_Quassim.public.md) 
+
+### #is_/same_as :: [Al_Quassim.internal](/_internal/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Al_Quassim.internal.md) 
+
+### #is_/same_as :: [Al_Quassim.protect](/_protect/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Al_Quassim.protect.md) 
+
+### #is_/same_as :: [Al_Quassim.private](/_private/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Al_Quassim.private.md) 
+
+### #is_/same_as :: [Al_Quassim.personal](/_personal/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Al_Quassim.personal.md) 
+
+### #is_/same_as :: [Al_Quassim.secret](/_secret/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Al_Quassim.secret.md)
 

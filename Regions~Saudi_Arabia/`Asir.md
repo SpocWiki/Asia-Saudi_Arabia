@@ -40,11 +40,18 @@ markerFolder: ./`Asir/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/`Asir|`Asir]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/`Asir.public|`Asir.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/`Asir.internal|`Asir.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/`Asir.protect|`Asir.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/`Asir.private|`Asir.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/`Asir.personal|`Asir.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/`Asir.secret|`Asir.secret]] 
+
+### #is_/same_as :: [`Asir](/_Standards/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/`Asir.md) 
+
+### #is_/same_as :: [`Asir.public](/_public/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/`Asir.public.md) 
+
+### #is_/same_as :: [`Asir.internal](/_internal/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/`Asir.internal.md) 
+
+### #is_/same_as :: [`Asir.protect](/_protect/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/`Asir.protect.md) 
+
+### #is_/same_as :: [`Asir.private](/_private/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/`Asir.private.md) 
+
+### #is_/same_as :: [`Asir.personal](/_personal/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/`Asir.personal.md) 
+
+### #is_/same_as :: [`Asir.secret](/_secret/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/`Asir.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Al_Madinah/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Madinah|Al_Madinah]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Madinah.public|Al_Madinah.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Madinah.internal|Al_Madinah.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Madinah.protect|Al_Madinah.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Madinah.private|Al_Madinah.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Madinah.personal|Al_Madinah.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Madinah.secret|Al_Madinah.secret]] 
+
+### #is_/same_as :: [Al_Madinah](/_Standards/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Al_Madinah.md) 
+
+### #is_/same_as :: [Al_Madinah.public](/_public/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Al_Madinah.public.md) 
+
+### #is_/same_as :: [Al_Madinah.internal](/_internal/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Al_Madinah.internal.md) 
+
+### #is_/same_as :: [Al_Madinah.protect](/_protect/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Al_Madinah.protect.md) 
+
+### #is_/same_as :: [Al_Madinah.private](/_private/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Al_Madinah.private.md) 
+
+### #is_/same_as :: [Al_Madinah.personal](/_personal/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Al_Madinah.personal.md) 
+
+### #is_/same_as :: [Al_Madinah.secret](/_secret/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Al_Madinah.secret.md)
 

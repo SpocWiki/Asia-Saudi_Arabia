@@ -40,11 +40,18 @@ markerFolder: ./Al_Hudud_ash_Shamaliyah/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Hudud_ash_Shamaliyah|Al_Hudud_ash_Shamaliyah]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Hudud_ash_Shamaliyah.public|Al_Hudud_ash_Shamaliyah.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Hudud_ash_Shamaliyah.internal|Al_Hudud_ash_Shamaliyah.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Hudud_ash_Shamaliyah.protect|Al_Hudud_ash_Shamaliyah.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Hudud_ash_Shamaliyah.private|Al_Hudud_ash_Shamaliyah.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Hudud_ash_Shamaliyah.personal|Al_Hudud_ash_Shamaliyah.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Hudud_ash_Shamaliyah.secret|Al_Hudud_ash_Shamaliyah.secret]] 
+
+### #is_/same_as :: [Al_Hudud_ash_Shamaliyah](/_Standards/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Al_Hudud_ash_Shamaliyah.md) 
+
+### #is_/same_as :: [Al_Hudud_ash_Shamaliyah.public](/_public/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Al_Hudud_ash_Shamaliyah.public.md) 
+
+### #is_/same_as :: [Al_Hudud_ash_Shamaliyah.internal](/_internal/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Al_Hudud_ash_Shamaliyah.internal.md) 
+
+### #is_/same_as :: [Al_Hudud_ash_Shamaliyah.protect](/_protect/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Al_Hudud_ash_Shamaliyah.protect.md) 
+
+### #is_/same_as :: [Al_Hudud_ash_Shamaliyah.private](/_private/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Al_Hudud_ash_Shamaliyah.private.md) 
+
+### #is_/same_as :: [Al_Hudud_ash_Shamaliyah.personal](/_personal/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Al_Hudud_ash_Shamaliyah.personal.md) 
+
+### #is_/same_as :: [Al_Hudud_ash_Shamaliyah.secret](/_secret/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Al_Hudud_ash_Shamaliyah.secret.md)
 
