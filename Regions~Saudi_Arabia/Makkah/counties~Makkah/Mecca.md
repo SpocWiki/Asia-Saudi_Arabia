@@ -105,7 +105,9 @@ Country :: [[../../../../Saudi_Arabia]]
 id: Mekka=Makkah=Mecca
 coordinates: [[Mecca]] 
 markerFile: [[Mecca]] 
-defaultZoom: 11 
+geojsonFolder: ./Mecca/
+markerFolder: ./Mecca/
+defaultZoom: 9 
 maxZoom: 18
 ```
 
