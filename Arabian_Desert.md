@@ -75,3 +75,20 @@ geojson:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Arabian%20Desert) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Arabian_Desert|Arabian_Desert]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Arabian_Desert.public|Arabian_Desert.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Arabian_Desert.internal|Arabian_Desert.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Arabian_Desert.protect|Arabian_Desert.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Arabian_Desert.private|Arabian_Desert.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Arabian_Desert.personal|Arabian_Desert.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Arabian_Desert.secret|Arabian_Desert.secret]] 
+

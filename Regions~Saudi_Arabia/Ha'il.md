@@ -40,17 +40,17 @@ markerFolder: ./Ha'il/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ha'il](/_Standards/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Ha'il.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Ha'il|Ha'il]] 
 
-### #is_/same_as :: [Ha'il.public](/_public/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Ha'il.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Ha'il.public|Ha'il.public]] 
 
-### #is_/same_as :: [Ha'il.internal](/_internal/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Ha'il.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Ha'il.internal|Ha'il.internal]] 
 
-### #is_/same_as :: [Ha'il.protect](/_protect/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Ha'il.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Ha'il.protect|Ha'il.protect]] 
 
-### #is_/same_as :: [Ha'il.private](/_private/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Ha'il.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Ha'il.private|Ha'il.private]] 
 
-### #is_/same_as :: [Ha'il.personal](/_personal/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Ha'il.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Ha'il.personal|Ha'il.personal]] 
 
-### #is_/same_as :: [Ha'il.secret](/_secret/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Ha'il.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Ha'il.secret|Ha'il.secret]] 
 

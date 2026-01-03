@@ -40,17 +40,17 @@ markerFolder: ./Jizan/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jizan](/_Standards/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Jizan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Jizan|Jizan]] 
 
-### #is_/same_as :: [Jizan.public](/_public/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Jizan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Jizan.public|Jizan.public]] 
 
-### #is_/same_as :: [Jizan.internal](/_internal/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Jizan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Jizan.internal|Jizan.internal]] 
 
-### #is_/same_as :: [Jizan.protect](/_protect/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Jizan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Jizan.protect|Jizan.protect]] 
 
-### #is_/same_as :: [Jizan.private](/_private/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Jizan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Jizan.private|Jizan.private]] 
 
-### #is_/same_as :: [Jizan.personal](/_personal/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Jizan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Jizan.personal|Jizan.personal]] 
 
-### #is_/same_as :: [Jizan.secret](/_secret/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Jizan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Jizan.secret|Jizan.secret]] 
 

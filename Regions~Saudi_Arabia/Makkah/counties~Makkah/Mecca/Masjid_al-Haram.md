@@ -54,3 +54,20 @@ native_label: المسجد الحرام
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Masjid%20al-Haram)  
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Makkah/counties~Makkah/Mecca/Masjid_al-Haram|Masjid_al-Haram]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Makkah/counties~Makkah/Mecca/Masjid_al-Haram.public|Masjid_al-Haram.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Makkah/counties~Makkah/Mecca/Masjid_al-Haram.internal|Masjid_al-Haram.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Makkah/counties~Makkah/Mecca/Masjid_al-Haram.protect|Masjid_al-Haram.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Makkah/counties~Makkah/Mecca/Masjid_al-Haram.private|Masjid_al-Haram.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Makkah/counties~Makkah/Mecca/Masjid_al-Haram.personal|Masjid_al-Haram.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Makkah/counties~Makkah/Mecca/Masjid_al-Haram.secret|Masjid_al-Haram.secret]] 
+

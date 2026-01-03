@@ -140,19 +140,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Riyadh)
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Riyadh=Er_Riad](/_Standards/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Ar_Riyad/City/Riyadh=Er_Riad.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Ar_Riyad/counties~Ar_Riyad/Riyadh|Riyadh]] 
 
-### #is_/same_as :: [Riyadh=Er_Riad.public](/_public/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Ar_Riyad/City/Riyadh=Er_Riad.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Ar_Riyad/counties~Ar_Riyad/Riyadh.public|Riyadh.public]] 
 
-### #is_/same_as :: [Riyadh=Er_Riad.internal](/_internal/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Ar_Riyad/City/Riyadh=Er_Riad.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Ar_Riyad/counties~Ar_Riyad/Riyadh.internal|Riyadh.internal]] 
 
-### #is_/same_as :: [Riyadh=Er_Riad.protect](/_protect/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Ar_Riyad/City/Riyadh=Er_Riad.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Ar_Riyad/counties~Ar_Riyad/Riyadh.protect|Riyadh.protect]] 
 
-### #is_/same_as :: [Riyadh=Er_Riad.private](/_private/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Ar_Riyad/City/Riyadh=Er_Riad.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Ar_Riyad/counties~Ar_Riyad/Riyadh.private|Riyadh.private]] 
 
-### #is_/same_as :: [Riyadh=Er_Riad.personal](/_personal/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Ar_Riyad/City/Riyadh=Er_Riad.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Ar_Riyad/counties~Ar_Riyad/Riyadh.personal|Riyadh.personal]] 
 
-### #is_/same_as :: [Riyadh=Er_Riad.secret](/_secret/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Ar_Riyad/City/Riyadh=Er_Riad.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Ar_Riyad/counties~Ar_Riyad/Riyadh.secret|Riyadh.secret]] 
 

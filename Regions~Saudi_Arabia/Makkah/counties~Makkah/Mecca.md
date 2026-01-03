@@ -128,17 +128,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mecca](/_Standards/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Makkah/City/Mecca.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Makkah/counties~Makkah/Mecca|Mecca]] 
 
-### #is_/same_as :: [Mecca.public](/_public/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Makkah/City/Mecca.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Makkah/counties~Makkah/Mecca.public|Mecca.public]] 
 
-### #is_/same_as :: [Mecca.internal](/_internal/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Makkah/City/Mecca.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Makkah/counties~Makkah/Mecca.internal|Mecca.internal]] 
 
-### #is_/same_as :: [Mecca.protect](/_protect/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Makkah/City/Mecca.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Makkah/counties~Makkah/Mecca.protect|Mecca.protect]] 
 
-### #is_/same_as :: [Mecca.private](/_private/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Makkah/City/Mecca.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Makkah/counties~Makkah/Mecca.private|Mecca.private]] 
 
-### #is_/same_as :: [Mecca.personal](/_personal/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Makkah/City/Mecca.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Makkah/counties~Makkah/Mecca.personal|Mecca.personal]] 
 
-### #is_/same_as :: [Mecca.secret](/_secret/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Makkah/City/Mecca.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Makkah/counties~Makkah/Mecca.secret|Mecca.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Al_Bahah/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Al_Bahah](/_Standards/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Al_Bahah.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Al_Bahah|Al_Bahah]] 
 
-### #is_/same_as :: [Al_Bahah.public](/_public/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Al_Bahah.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Al_Bahah.public|Al_Bahah.public]] 
 
-### #is_/same_as :: [Al_Bahah.internal](/_internal/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Al_Bahah.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Al_Bahah.internal|Al_Bahah.internal]] 
 
-### #is_/same_as :: [Al_Bahah.protect](/_protect/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Al_Bahah.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Al_Bahah.protect|Al_Bahah.protect]] 
 
-### #is_/same_as :: [Al_Bahah.private](/_private/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Al_Bahah.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Al_Bahah.private|Al_Bahah.private]] 
 
-### #is_/same_as :: [Al_Bahah.personal](/_personal/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Al_Bahah.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Al_Bahah.personal|Al_Bahah.personal]] 
 
-### #is_/same_as :: [Al_Bahah.secret](/_secret/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Al_Bahah.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Al_Bahah.secret|Al_Bahah.secret]] 
 

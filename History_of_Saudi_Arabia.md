@@ -60,3 +60,20 @@ Dewey_Decimal_Classification: "953.8"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Saudi%20Arabia) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Saudi_Arabia/History_of_Saudi_Arabia|History_of_Saudi_Arabia]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Saudi_Arabia/History_of_Saudi_Arabia.public|History_of_Saudi_Arabia.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Saudi_Arabia/History_of_Saudi_Arabia.internal|History_of_Saudi_Arabia.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Saudi_Arabia/History_of_Saudi_Arabia.protect|History_of_Saudi_Arabia.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Saudi_Arabia/History_of_Saudi_Arabia.private|History_of_Saudi_Arabia.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Saudi_Arabia/History_of_Saudi_Arabia.personal|History_of_Saudi_Arabia.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Saudi_Arabia/History_of_Saudi_Arabia.secret|History_of_Saudi_Arabia.secret]] 
+

@@ -113,3 +113,20 @@ Wolfram_Language_entity_code: Entity["Building", "Kaaba::x6fxz"]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Kaaba) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Makkah/counties~Makkah/Mecca/Kaaba|Kaaba]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Makkah/counties~Makkah/Mecca/Kaaba.public|Kaaba.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Makkah/counties~Makkah/Mecca/Kaaba.internal|Kaaba.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Makkah/counties~Makkah/Mecca/Kaaba.protect|Kaaba.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Makkah/counties~Makkah/Mecca/Kaaba.private|Kaaba.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Makkah/counties~Makkah/Mecca/Kaaba.personal|Kaaba.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Makkah/counties~Makkah/Mecca/Kaaba.secret|Kaaba.secret]] 
+

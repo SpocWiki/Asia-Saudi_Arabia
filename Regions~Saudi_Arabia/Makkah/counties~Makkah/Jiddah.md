@@ -71,3 +71,20 @@ coordinate_location: Point(39.172777777 21.542777777)
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Jeddah) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Makkah/counties~Makkah/Jiddah|Jiddah]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Makkah/counties~Makkah/Jiddah.public|Jiddah.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Makkah/counties~Makkah/Jiddah.internal|Jiddah.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Makkah/counties~Makkah/Jiddah.protect|Jiddah.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Makkah/counties~Makkah/Jiddah.private|Jiddah.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Makkah/counties~Makkah/Jiddah.personal|Jiddah.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Saudi_Arabia/Regions~Saudi_Arabia/Makkah/counties~Makkah/Jiddah.secret|Jiddah.secret]] 
+
