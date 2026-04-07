@@ -118,7 +118,7 @@ markerFolder: ./
 [Area-Land::2149690] 
 Continent :: [[Asia]]  
 [VehicleCode::KSA] 
-Capital :: [[Saudi_Arabia/Counties/Ar_Riyad/City/Riyadh=Er_Riad]]  
+Capital :: [[Saudi_Arabia/Counties/Ar_Riyad/City/Riyadh=Er_Riad|Riyadh=Er_Riad]]  
 ![[Saudi_Arabia/Emblem_of_Saudi_Arabia.svg|350]]  
 
 ![[Anthem-Saudi-arabia.mp3]] 

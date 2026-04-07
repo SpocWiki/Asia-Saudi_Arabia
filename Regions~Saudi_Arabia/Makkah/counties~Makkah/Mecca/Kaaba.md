@@ -22,34 +22,34 @@ native_label:
   - ٱلْكَعْبَة
   - ٱلْكَعْبَة ٱلْمُشَرَّفَة
 significant_event:
-  - "[[_Standards/WikiData/WD~Hajj,234915]]"
-  - "[[_Standards/WikiData/WD~Umrah,640480]]"
-  - "[[_Standards/WikiData/WD~ṭawāf,1415790]]"
-location: "[[_Standards/WikiData/WD~Al_Masjid_Al_Haram,428858]]"
+  - "[[_Standards/WikiData/WD~Hajj,234915|WD~Hajj,234915]]"
+  - "[[_Standards/WikiData/WD~Umrah,640480|WD~Umrah,640480]]"
+  - "[[_Standards/WikiData/WD~ṭawāf,1415790|WD~ṭawāf,1415790]]"
+location: "[[_Standards/WikiData/WD~Al_Masjid_Al_Haram,428858|WD~Al_Masjid_Al_Haram,428858]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Religion_in_Geschichte_und_Gegenwart,1514334]]"
-  - "[[_Standards/WikiData/WD~Encyclopaedia_of_the_Qur'ān,2617708]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Islamskiy_entsiklopedicheskiy_slovar',18517268]]"
-  - "[[_Standards/WikiData/WD~Islam_an_encyclopedic_dictionary,18604567]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia_(1902_1905),20089963]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
-  - "[[_Standards/WikiData/WD~Infernal_Dictionary,_6th_ed.,20961706]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Religion_in_Geschichte_und_Gegenwart,1514334|WD~Religion_in_Geschichte_und_Gegenwart,1514334]]"
+  - "[[_Standards/WikiData/WD~Encyclopaedia_of_the_Qur'ān,2617708|WD~Encyclopaedia_of_the_Qur'ān,2617708]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Islamskiy_entsiklopedicheskiy_slovar',18517268|WD~Islamskiy_entsiklopedicheskiy_slovar',18517268]]"
+  - "[[_Standards/WikiData/WD~Islam_an_encyclopedic_dictionary,18604567|WD~Islam_an_encyclopedic_dictionary,18604567]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~New_International_Encyclopedia_(1902_1905),20089963|WD~New_International_Encyclopedia_(1902_1905),20089963]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917|WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
+  - "[[_Standards/WikiData/WD~Infernal_Dictionary,_6th_ed.,20961706|WD~Infernal_Dictionary,_6th_ed.,20961706]]"
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Black_Stone,715286]]"
-  - "[[_Standards/WikiData/WD~kiswah,1511204]]"
-  - "[[_Standards/WikiData/WD~corners_of_the_Kaaba,4115878]]"
-  - "[[_Standards/WikiData/WD~Kaaba_door,16122214]]"
-instance_of: "[[_Standards/WikiData/WD~sacred_place,4588528]]"
-depicted_by: "[[_Standards/WikiData/WD~_,87581090]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Islam,432]]"
-country: "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Mecca,5806]]"
+  - "[[_Standards/WikiData/WD~Black_Stone,715286|WD~Black_Stone,715286]]"
+  - "[[_Standards/WikiData/WD~kiswah,1511204|WD~kiswah,1511204]]"
+  - "[[_Standards/WikiData/WD~corners_of_the_Kaaba,4115878|WD~corners_of_the_Kaaba,4115878]]"
+  - "[[_Standards/WikiData/WD~Kaaba_door,16122214|WD~Kaaba_door,16122214]]"
+instance_of: "[[_Standards/WikiData/WD~sacred_place,4588528|WD~sacred_place,4588528]]"
+depicted_by: "[[_Standards/WikiData/WD~_,87581090|WD~_,87581090]]"
+religion_or_worldview: "[[_Standards/WikiData/WD~Islam,432|WD~Islam,432]]"
+country: "[[_Standards/WikiData/WD~Saudi_Arabia,851|WD~Saudi_Arabia,851]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Mecca,5806|WD~Mecca,5806]]"
 length:
   - 9.9
   - 10.18
@@ -73,7 +73,7 @@ Wolfram_Language_entity_code: Entity["Building", "Kaaba::x6fxz"]
 
 # [[Kaaba]] 
 
-![[../../../../../../../../../assets/Kaaba,Mekka,Saudi_Arabia.png]] 
+![[../../../../../../../../../assets/Kaaba,Mekka,Saudi_Arabia.png|Kaaba,Mekka,Saudi_Arabia.png]] 
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Kaaba,29466|WD~Kaaba,29466]]
 

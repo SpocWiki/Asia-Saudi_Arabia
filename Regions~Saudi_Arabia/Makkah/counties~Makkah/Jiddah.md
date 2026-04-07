@@ -4,22 +4,22 @@ aliases:
   - Jiddah
 has_id_wikidata: Q374365
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-instance_of: "[[_Standards/WikiData/WD~big_city,1549591]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Jeddah,6637404]]"
-history_of_topic: "[[_Standards/WikiData/WD~timeline_of_Jeddah_history,7805771]]"
-head_of_government: "[[_Standards/WikiData/WD~Saleh_Al_Turki,60573853]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Jeddah,61970549]]"
-capital_of: "[[_Standards/WikiData/WD~Jeddah_Governorate,97016466]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Jeddah_Governorate,97016466]]"
-country: "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC+03_00,6760]]"
-twinned_administrative_body: "[[_Standards/WikiData/WD~Miami,8652]]"
-official_language: "[[_Standards/WikiData/WD~Arabic,13955]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Red_Sea,23406]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+instance_of: "[[_Standards/WikiData/WD~big_city,1549591|WD~big_city,1549591]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Jeddah,6637404|WD~Template_Jeddah,6637404]]"
+history_of_topic: "[[_Standards/WikiData/WD~timeline_of_Jeddah_history,7805771|WD~timeline_of_Jeddah_history,7805771]]"
+head_of_government: "[[_Standards/WikiData/WD~Saleh_Al_Turki,60573853|WD~Saleh_Al_Turki,60573853]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Jeddah,61970549|WD~Portal_Jeddah,61970549]]"
+capital_of: "[[_Standards/WikiData/WD~Jeddah_Governorate,97016466|WD~Jeddah_Governorate,97016466]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Jeddah_Governorate,97016466|WD~Jeddah_Governorate,97016466]]"
+country: "[[_Standards/WikiData/WD~Saudi_Arabia,851|WD~Saudi_Arabia,851]]"
+located_in_time_zone: "[[_Standards/WikiData/WD~UTC+03_00,6760|WD~UTC+03_00,6760]]"
+twinned_administrative_body: "[[_Standards/WikiData/WD~Miami,8652|WD~Miami,8652]]"
+official_language: "[[_Standards/WikiData/WD~Arabic,13955|WD~Arabic,13955]]"
+located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Red_Sea,23406|WD~Red_Sea,23406]]"
 elevation_above_sea_level:
   - 7
   - 12

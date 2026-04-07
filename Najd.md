@@ -2,13 +2,13 @@
 aliases:
 has_id_wikidata: Q208154
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~historical_region,1620908]]"
-  - "[[_Standards/WikiData/WD~province,34876]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
-country: "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
+  - "[[_Standards/WikiData/WD~historical_region,1620908|WD~historical_region,1620908]]"
+  - "[[_Standards/WikiData/WD~province,34876|WD~province,34876]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Saudi_Arabia,851|WD~Saudi_Arabia,851]]"
+country: "[[_Standards/WikiData/WD~Saudi_Arabia,851|WD~Saudi_Arabia,851]]"
 Commons_category: Najd
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Map%20of%20Najd.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Tuwaiq%20Escarpment-14h38m25s-k.jpg

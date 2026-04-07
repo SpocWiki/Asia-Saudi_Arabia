@@ -7,27 +7,27 @@ has_id_wikidata: Q428858
 location: [21.4225, 39.826111111]
 coordinate_location: Point(39.826111111 21.4225)
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Zamzam_Well,146038]]"
-  - "[[_Standards/WikiData/WD~Black_Stone,715286]]"
-  - "[[_Standards/WikiData/WD~Al_Safa_and_Al_Marwah,900671]]"
-  - "[[_Standards/WikiData/WD~Station_of_Abraham,3696312]]"
-  - "[[_Standards/WikiData/WD~Maktabat_Makkah_al_Mukarramah_Bayt_al_Mawlid,28936504]]"
-  - "[[_Standards/WikiData/WD~Kaaba,29466]]"
-architectural_style: "[[_Standards/WikiData/WD~Islamic_architecture,212940]]"
+  - "[[_Standards/WikiData/WD~Zamzam_Well,146038|WD~Zamzam_Well,146038]]"
+  - "[[_Standards/WikiData/WD~Black_Stone,715286|WD~Black_Stone,715286]]"
+  - "[[_Standards/WikiData/WD~Al_Safa_and_Al_Marwah,900671|WD~Al_Safa_and_Al_Marwah,900671]]"
+  - "[[_Standards/WikiData/WD~Station_of_Abraham,3696312|WD~Station_of_Abraham,3696312]]"
+  - "[[_Standards/WikiData/WD~Maktabat_Makkah_al_Mukarramah_Bayt_al_Mawlid,28936504|WD~Maktabat_Makkah_al_Mukarramah_Bayt_al_Mawlid,28936504]]"
+  - "[[_Standards/WikiData/WD~Kaaba,29466|WD~Kaaba,29466]]"
+architectural_style: "[[_Standards/WikiData/WD~Islamic_architecture,212940|WD~Islamic_architecture,212940]]"
 significant_event:
-  - "[[_Standards/WikiData/WD~Hajj,234915]]"
-  - "[[_Standards/WikiData/WD~Umrah,640480]]"
-  - "[[_Standards/WikiData/WD~start_of_construction,27136782]]"
+  - "[[_Standards/WikiData/WD~Hajj,234915|WD~Hajj,234915]]"
+  - "[[_Standards/WikiData/WD~Umrah,640480|WD~Umrah,640480]]"
+  - "[[_Standards/WikiData/WD~start_of_construction,27136782|WD~start_of_construction,27136782]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~congregational_mosque,1454820]]"
-  - "[[_Standards/WikiData/WD~architectural_landmark,2319498]]"
-  - "[[_Standards/WikiData/WD~educational_institution,2385804]]"
-described_by_source: "[[_Standards/WikiData/WD~Islamskiy_entsiklopedicheskiy_slovar',18517268]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Islam,432]]"
-country: "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Mecca,5806]]"
+  - "[[_Standards/WikiData/WD~congregational_mosque,1454820|WD~congregational_mosque,1454820]]"
+  - "[[_Standards/WikiData/WD~architectural_landmark,2319498|WD~architectural_landmark,2319498]]"
+  - "[[_Standards/WikiData/WD~educational_institution,2385804|WD~educational_institution,2385804]]"
+described_by_source: "[[_Standards/WikiData/WD~Islamskiy_entsiklopedicheskiy_slovar',18517268|WD~Islamskiy_entsiklopedicheskiy_slovar',18517268]]"
+religion_or_worldview: "[[_Standards/WikiData/WD~Islam,432|WD~Islam,432]]"
+country: "[[_Standards/WikiData/WD~Saudi_Arabia,851|WD~Saudi_Arabia,851]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Mecca,5806|WD~Mecca,5806]]"
 maximum_capacity: 820000
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~minaret,48356]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~minaret,48356|WD~minaret,48356]]"
 height: 137.5
 postal_code: "31982"
 Commons_gallery: Great Mosque of Mecca

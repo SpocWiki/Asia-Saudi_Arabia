@@ -32,38 +32,38 @@ demonym:
   - Riyadienne
 coordinate_location: Point(46.71 24.65)
 twinned_administrative_body:
-  - "[[_Standards/WikiData/WD~Q81398,81398]]"
-  - "[[_Standards/WikiData/WD~Hermosillo,189138]]"
+  - "[[_Standards/WikiData/WD~Q81398,81398|WD~Q81398,81398]]"
+  - "[[_Standards/WikiData/WD~Hermosillo,189138|WD~Hermosillo,189138]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~human_settlement,486972]]"
-  - "[[_Standards/WikiData/WD~million_city,1637706]]"
-  - "[[_Standards/WikiData/WD~national_capital,108178728]]"
-  - "[[_Standards/WikiData/WD~city_in_Saudi_Arabia,110571169]]"
+  - "[[_Standards/WikiData/WD~human_settlement,486972|WD~human_settlement,486972]]"
+  - "[[_Standards/WikiData/WD~million_city,1637706|WD~million_city,1637706]]"
+  - "[[_Standards/WikiData/WD~national_capital,108178728|WD~national_capital,108178728]]"
+  - "[[_Standards/WikiData/WD~city_in_Saudi_Arabia,110571169|WD~city_in_Saudi_Arabia,110571169]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517|WD~Small_Soviet_Encyclopedia,66386517]]"
 different_from:
-  - "[[_Standards/WikiData/WD~Moroccan_riad,767261]]"
-  - "[[_Standards/WikiData/WD~Riyadh_Province,1249255]]"
-  - "[[_Standards/WikiData/WD~Riyadh_Al_Khabra_governorate,65040798]]"
+  - "[[_Standards/WikiData/WD~Moroccan_riad,767261|WD~Moroccan_riad,767261]]"
+  - "[[_Standards/WikiData/WD~Riyadh_Province,1249255|WD~Riyadh_Province,1249255]]"
+  - "[[_Standards/WikiData/WD~Riyadh_Al_Khabra_governorate,65040798|WD~Riyadh_Al_Khabra_governorate,65040798]]"
 capital_of:
-  - "[[_Standards/WikiData/WD~Riyadh_Province,1249255]]"
-  - "[[_Standards/WikiData/WD~Riyadh_governorate,97302281]]"
-  - "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Riyadh_Province,1249255]]"
-contains_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Al_Bathaa,4702280]]"
+  - "[[_Standards/WikiData/WD~Riyadh_Province,1249255|WD~Riyadh_Province,1249255]]"
+  - "[[_Standards/WikiData/WD~Riyadh_governorate,97302281|WD~Riyadh_governorate,97302281]]"
+  - "[[_Standards/WikiData/WD~Saudi_Arabia,851|WD~Saudi_Arabia,851]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Riyadh_Province,1249255|WD~Riyadh_Province,1249255]]"
+contains_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Al_Bathaa,4702280|WD~Al_Bathaa,4702280]]"
 maintained_by_WikiProject:
-  - "[[_Standards/WikiData/WD~WikiProject_Cities,5497514]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Arab_world,15301257]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Saudi_Arabia,15885069]]"
-history_of_topic: "[[_Standards/WikiData/WD~timeline_of_Riyadh_history,7805898]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Q42351472,42351472]]"
-category_for_people_buried_here: "[[_Standards/WikiData/WD~Q69998521,69998521]]"
+  - "[[_Standards/WikiData/WD~WikiProject_Cities,5497514|WD~WikiProject_Cities,5497514]]"
+  - "[[_Standards/WikiData/WD~WikiProject_Arab_world,15301257|WD~WikiProject_Arab_world,15301257]]"
+  - "[[_Standards/WikiData/WD~WikiProject_Saudi_Arabia,15885069|WD~WikiProject_Saudi_Arabia,15885069]]"
+history_of_topic: "[[_Standards/WikiData/WD~timeline_of_Riyadh_history,7805898|WD~timeline_of_Riyadh_history,7805898]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Q42351472,42351472|WD~Q42351472,42351472]]"
+category_for_people_buried_here: "[[_Standards/WikiData/WD~Q69998521,69998521|WD~Q69998521,69998521]]"
 inception: 1746-01-01T00:00:00Z
-country: "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC+03_00,6760]]"
-official_language: "[[_Standards/WikiData/WD~Arabic,13955]]"
+country: "[[_Standards/WikiData/WD~Saudi_Arabia,851|WD~Saudi_Arabia,851]]"
+located_in_time_zone: "[[_Standards/WikiData/WD~UTC+03_00,6760|WD~UTC+03_00,6760]]"
+official_language: "[[_Standards/WikiData/WD~Arabic,13955|WD~Arabic,13955]]"
 elevation_above_sea_level: 612
 area: 1798
 subreddit: Riyadh
@@ -95,7 +95,7 @@ Libris_URI: ljx0zzx42x4hmhn
 [geo-lat::24.65] 
 [name::Er Riad] 
 State ::  
-Country :: [[../../../../Saudi_Arabia]]  
+Country :: [[../../../../Saudi_Arabia|Saudi_Arabia]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 

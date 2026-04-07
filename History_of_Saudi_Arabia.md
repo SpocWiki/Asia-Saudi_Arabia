@@ -1,17 +1,17 @@
 ---
 aliases:
 has_id_wikidata: Q559915
-subclass_of: "[[_Standards/WikiData/WD~history_of_Asia,627531]]"
+subclass_of: "[[_Standards/WikiData/WD~history_of_Asia,627531|WD~history_of_Asia,627531]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-  - "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
-described_by_source: "[[_Standards/WikiData/WD~Darah,12211319]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_History_of_Saudi_Arabia,13427381]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_the_Saudi_Arabian_Peninsula,22137063]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geographic_history_of_Saudi_Arabia,95985724]]"
-facet_of: "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
-country: "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
-part_of: "[[_Standards/WikiData/WD~history_of_the_Middle_East,51615]]"
+  - "[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]"
+  - "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377|WD~history_of_a_country_or_state,17544377]]"
+described_by_source: "[[_Standards/WikiData/WD~Darah,12211319|WD~Darah,12211319]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_History_of_Saudi_Arabia,13427381|WD~Template_History_of_Saudi_Arabia,13427381]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_the_Saudi_Arabian_Peninsula,22137063|WD~history_of_the_Saudi_Arabian_Peninsula,22137063]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geographic_history_of_Saudi_Arabia,95985724|WD~geographic_history_of_Saudi_Arabia,95985724]]"
+facet_of: "[[_Standards/WikiData/WD~Saudi_Arabia,851|WD~Saudi_Arabia,851]]"
+country: "[[_Standards/WikiData/WD~Saudi_Arabia,851|WD~Saudi_Arabia,851]]"
+part_of: "[[_Standards/WikiData/WD~history_of_the_Middle_East,51615|WD~history_of_the_Middle_East,51615]]"
 Commons_category: History of Saudi Arabia
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20History%20of%20Saudi%20Arabia.ogg
 Dewey_Decimal_Classification: "953.8"
