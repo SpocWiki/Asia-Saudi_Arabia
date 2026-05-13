@@ -52,7 +52,7 @@ native_label: المسجد الحرام
 >
 > As of 2025, the Great Mosque is both the largest mosque in the world, and the most expensive building in the world. It has undergone major renovations and expansions through the years. It has passed through the control of various caliphs, sultans and kings, and is now under the control of the King of Saudi Arabia who is titled the Custodian of the Two Holy Mosques.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Masjid%20al-Haram)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Masjid%20al-Haram) 
 
 
 ## Confidential Links & Embeds: 

@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Ar_Riyad/
 markerFolder: ./Ar_Riyad/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Ha'il/
 markerFolder: ./Ha'il/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

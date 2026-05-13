@@ -123,7 +123,7 @@ maxZoom: 18
 >
 > Under the Saudi government, Mecca is governed by the Mecca Regional Municipality, a municipal council of 14 locally elected members headed by the mayor (called Amin in Arabic) appointed by the Saudi government. In 2015, the mayor of the city was Osama bin Fadhel Al-Barr; as of January 2022, the mayor is Saleh Al-Turki. The City of Mecca amanah, which constitutes Mecca and the surrounding region, is the capital of the Mecca Province, which includes the neighbouring cities of Jeddah and Ta'if, even though Jeddah is considerably larger in population than Mecca. Prince Khalid bin Faisal Al Saud has been the provincial governor of the province since 16 May 2007.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Mecca)
+> [Wikipedia](https://en.wikipedia.org/wiki/Mecca) 
 
 
 ## Confidential Links & Embeds: 

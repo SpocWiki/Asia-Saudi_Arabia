@@ -138,7 +138,7 @@ maxZoom: 18
 >
 > On the outskirts of Riyadh is Diriyah, the original home of the ruling House of Saud and site of At-Turaif Palace, a UNESCO heritage site.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Riyadh)
+> [Wikipedia](https://en.wikipedia.org/wiki/Riyadh) 
 
 
 ## Confidential Links & Embeds: 
