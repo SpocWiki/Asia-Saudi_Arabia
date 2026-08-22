@@ -1176,17 +1176,17 @@ darkMode: false
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Saudi_Arabia|Saudi_Arabia]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Saudi_Arabia/ReadMe|ReadMe]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Saudi_Arabia.public|Saudi_Arabia.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Saudi_Arabia/ReadMe.public|ReadMe.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Saudi_Arabia.internal|Saudi_Arabia.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Saudi_Arabia/ReadMe.internal|ReadMe.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Saudi_Arabia.protect|Saudi_Arabia.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Saudi_Arabia/ReadMe.protect|ReadMe.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Saudi_Arabia.private|Saudi_Arabia.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Saudi_Arabia/ReadMe.private|ReadMe.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Saudi_Arabia.personal|Saudi_Arabia.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Saudi_Arabia/ReadMe.personal|ReadMe.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Saudi_Arabia.secret|Saudi_Arabia.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Saudi_Arabia/ReadMe.secret|ReadMe.secret]] 
 
