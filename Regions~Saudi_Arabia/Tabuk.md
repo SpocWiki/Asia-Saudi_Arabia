@@ -33,8 +33,8 @@ id: Tabuk
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Tabuk/
-markerFolder: ./Tabuk/
+geojsonFolder: ./Tabuk//
+markerFolder: ./Tabuk//
 ``` 
 
 

@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "name": "The_Line_Saudi_Arabia",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Line",
+        "project": "NEOM",
+        "country": "Saudi Arabia",
+        "geometry_note": "Approximate planned alignment, not an official cadastral or construction survey",
+        "source_note": "Route coordinates transcribed from the OpenStreetMap-based route published by Visionscarto"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.6260676,
+            28.1553986
+          ],
+          [
+            35.243314,
+            28.1038448
+          ],
+          [
+            35.3364378,
+            28.0960647
+          ],
+          [
+            35.7069472,
+            28.0632531
+          ],
+          [
+            35.7696314,
+            28.0575904
+          ],
+          [
+            35.8018539,
+            28.0546794
+          ],
+          [
+            35.8526383,
+            28.0501189
+          ],
+          [
+            35.883952,
+            28.0472623
+          ],
+          [
+            35.9189198,
+            28.0441579
+          ],
+          [
+            35.952347,
+            28.0410827
+          ],
+          [
+            35.9927814,
+            28.0374293
+          ],
+          [
+            36.1730255,
+            28.02126
+          ],
+          [
+            36.345249,
+            28.0087442
+          ]
+        ]
+      }
+    }
+  ]
+}
